@@ -1,0 +1,19 @@
+===== Session 22 - 1sr Apr ========
+
+1) Introduce what is raw data and clean data.
+ 
+==== raw data : the dataset has missing values is called raw data
+==== Clean data: the dataset which does not has any missing values
+
+=== Interview question:
+1) Convert raw data into clean data is a data cleaning or data cleansing.
+2) how to preprocess or clean the data in your existing project?
+
+==== Spliting the dataset to numerical dataset & categorical dataset using attribute name
+
+== describe()---- descriptive stats which provide only numerical informations.
+
+
+** Both are used to add rows or columns.
+=== axis = 0 for--->rows
+=== axis = 1 for--->columns
