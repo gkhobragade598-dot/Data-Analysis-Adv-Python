@@ -1,0 +1,29 @@
+3rd Apr (3/4/26)
+
+---- Advanced Python
+
+Organization we are should not use or not suppose to use multiple if why?
+-- multiple if : more or extra memory space are calculated
+
+nested if -->
+  
+  nested list -- list inside list
+  if else inside if else -- nested if
+
+
+when ever we work with one binary condition -- if -- else
+if you more condition user must use ( nested if)
+
+
+website for practice:
+https://www.geeksforgeeks.org/python/conditional-statements-in-python/
+
+
+ === LOOPS --->
+  
+           ..........> while loop --> nested while -- while inside while loops is called nested while
+Loops------|                               |
+           |                               |.....> inner loop will work first then outer loop will be works.
+           |.........> for loop            
+
+
