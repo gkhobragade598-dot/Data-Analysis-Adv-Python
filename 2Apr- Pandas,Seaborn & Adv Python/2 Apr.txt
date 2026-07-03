@@ -1,0 +1,39 @@
+=== 2 Apr (2/4/26)
+
+--- Pandas ---
+
+len() - display only rows
+head() - display above 5 records
+tail() - display bottom 5 records
+.isna() & isnull() - to check missing values
+.isnull().sum() - check the count of missing value
+.info() - it give informations about about the dataframe
+.shape() - shape of the dataframe
+.columns - display columns
+.describe() - used for descriptive stats #bydefault describe provide information of numerical data only not categorical data
+
+NUMPY VS PANDAS
+In NumPy ("," operator will work ) but in pandas it do not work
+
+
+Filtering data:- 
+df[df['InternetUsers']<2]
+
+applying and condition
+df[(df.BirthRate >40 ) & (df.InternetUsers <20]
+df ['IncomeGroup'] == 'High income'
+
+Renaming column names:-
+df.columns = ['a','b','c','d','e']
+
+Mathematical operations :-
+df.BirthRate * df.InternetUser
+df['myCacl'] = df.BirthRate * df.InternetUser
+
+univariate analysis --- plot the graph using 1 variable
+bivariate analysis --- plot the graph using 2 variable
+multivariate analysis --- plot the graph using more than 2 variable
+
+outlier --- statistics outlier is the datapoint which is far other observations is called outlier. also called as ANOMALY DETECTION.
+
+these outlier impact machine learning models accuracy
