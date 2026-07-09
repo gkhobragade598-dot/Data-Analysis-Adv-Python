@@ -1,0 +1,32 @@
+=== session 25 ===
+(4/4/2026)
+
+for loop for string datatype
+
+
+if you pass any datatype , datastructure then you must use STRING
+
+
+break
+continue
+pass -- we will be using in method overriding, (polymorphis) , abstract method(abstraction)
+
+conditional statement ---> use case if you have only 1 binary condition (if-else)
+                           Use case more then binary condition (nested if)
+
+VS
+
+While loop  --> Use case if any 1 condition (not binary)  while loop
+
+VS
+
+For loop ---> Use case if data swquence (string , list , tuple , set , dict , range)
+
+
+
+break -- Condition true STOP
+
+continue -- skip that specific position (The continue statement in Python is a loop control keyword that skips the remaining code inside the current iteration and immediately moves the program control to the next cycle of the loop)
+
+pass -- pass ( the pass statement is a null operation that does absolutely nothing when executed)
+
