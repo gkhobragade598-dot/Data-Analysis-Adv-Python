@@ -1,0 +1,18 @@
+(7/4/26)
+
+== for else
+
+== llm side
+
+framework name ollama
+using ollama user or developer can build llm locally (local computer) personal computer
+
+GENERATIVE AL 2 PART
+  LLM (large language model) -- only generate text to text generation
+       user will write the text & model will generate text only it wont generate image
+        llm is text based model
+
+  State of art model (SOTA model)
+         user will write the text & model will generate image,audio,video except text
+         in cloud section state of the model are called as COGNITIVE AI
+         SOTA is multimodel
