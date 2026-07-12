@@ -1,0 +1,10 @@
+
+(10-04-26)
+
+STREAMLIT
+GRADIO
+
+GRADIO --> PLATFORM
+
+link of matplotlib color code
+https://matplotlib.org/stable/gallery/color/named_colors.html
