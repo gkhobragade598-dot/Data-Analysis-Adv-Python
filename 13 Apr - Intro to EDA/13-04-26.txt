@@ -1,0 +1,118 @@
+13-04-26
+
+
+EDA---
+
+EDA is the data cleaning technique to convert raw data to clean data to build ml models
+
+EDA technique 6 technique
+
+1- variable identification
+2- Univariate analysis
+3- Bivariate analysis
+4- Outlier treatment
+5- Missing value treatment
+6- Imputation technique | transformer
+
+Machine learning --- 3 categori
+
+  regression
+  classification
+  clustering
+
+How the EDA will connect to ml
+
+1- variable identification
+---
+family -- 4 members = 4 variable
+
+father --- dependent variable = predicted variable = target attribute == y
+mother --- independent variable == unpredicted variable == non target attribute 
+son 4th grade -- x2
+daugh 3rd grade -- x3
+
+
+   y = x1 + x2 + x3 (multiple linear regression algorithm)
+   m,s,k --- depends on father
+
+1 - variable identification
+  
+   independent variable -- x -- (x1,x2,x3) - independent variable can be many
+   dependent variable -- y
+
+
+ML -->
+Regression -- if dependent variable is continuous then we called as regression
+
+  continuous variable
+     petrol price
+     gold price
+     land price
+     stock price
+     ev car price
+     crypto price
+
+Regression Model ----
+
+1- simple linear regression algorithm
+2- multiple linear regression
+3- polynomial regression
+4- lasso | l1 regularization
+5- ridge | l2 regularization
+6- k nearest neighbour regression
+7- decision tree regression
+8- random forest regression
+9- support vector regression
+10- xtream gradient boosting regression 
+11- light gradient boosting
+12- ann regression
+13- time series
+14- gd | sgd | bgd
+
+
+CLASSIFICATION -- dependent variable is binary or category
+win|loss
+spam|not spam
+t|f
+
+TYPES OF ALGORITHM :-
+1.LOGISTIC REGRESSION
+2.SUPPORT VECTOR MACHINE
+3.NAVIE BAYES ALGORITHM (BAYESIAN THEOREM | BAYES THEOREM)
+4.DECISION TREE CLASSIFIER
+5.RANDOM FOREST CLASSIFIER
+6.XGBOOST CLASSIFIER
+7.LGBM CLASSIFIER
+8. ANN CLASSIFIER
+9.KNN CLASSIFIER
+
+
+CLUSTERING (Grouping) :- no dependent variable that means if data is discrete
+eg:- kids -> 2or 3
+if the data is discrete then we introduce clustering algo
+
+TYPES OF ALGO :-
+1.K-MEANS
+2.HIRACHICAL CLUSTERING 
+3.DBSCAN CLUSTERING
+4. pca ( principal component analysis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
