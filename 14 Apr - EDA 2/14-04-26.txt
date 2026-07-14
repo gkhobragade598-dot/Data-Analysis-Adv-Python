@@ -1,0 +1,43 @@
+14-07-26 ----
+
+1- VARIABLE IDENTIFICATION
+
+   independent variable (x1,x2)
+   dependent variable (y)
+   relevant attribute
+   irrelevant attribute
+
+every time try to build the model with relevant attribute only
+If user build the model by irrelevant attribute then overfitting problem or multilinearity
+model behave wrong -- less accuracy and high error
+
+2- univariate analysis s -- plot the graph using 1 variable
+
+3- bivariate analysis -- plot the graph using 2 variable
+       corelation --- co + relation
+       relation among 2 attribute is called corelation
+  
+      Range of correlation to -1 to 1
+
+     +ve corr - 0-1
+     -ve corr - -1 to 0 
+      0  corr -- 0 | no corelation
+
+4- outlier treatment
+
+5- missing value treatment
+     if numerical values are missing then  need to implement mean strategy, median , mode 
+     if categorical value are missing then need to implement mode
+            
+what if all value mode is same then what next ??
+   k nn (k nearest neighbour)
+
+6- imputation technique also called as transformer
+      convert categorical value to numerical is called imputation technique or transformer
+   1- dummy variable | one hot encoder -- 0 or 1
+   2- labelencoder
+
+  nlp the process of convert text or send to vector -- embedding concept(text -- number)
+
+
+
