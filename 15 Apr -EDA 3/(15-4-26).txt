@@ -1,0 +1,9 @@
+(15-4-26)
+
+.get_dummies -- functions used for transformer transforming categorical to number
+
+one hot encoder
+labelencoder
+
+
+workflow or  pipeline -- is not a subject or not a book -- it is the explanation / step by step process.
