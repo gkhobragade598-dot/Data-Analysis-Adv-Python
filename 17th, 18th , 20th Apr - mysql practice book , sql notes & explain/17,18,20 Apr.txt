@@ -1,0 +1,42 @@
+(17-04-26)
+
+
+SQL :- 
+Once you make ID as PRIMARY KEY you can't insert any value & it will be always unique. ID column never duplicate because we make id as PRIMARY KEY
+
+Secure way -- we must add COLUMN name & VALUES  
+Insecure way -- we just add VALUES
+
+
+SHARED SOME BOOKS WORK ON IT !
+
+
+(18-04-26)
+
+DELETE any DATA - DML Command & Change  any structure - DDL C0mmand
+
+WILD CARD OPERATORS :-
+a% --> starts with a
+%y  --> ends with y
+
+Pull out the records where second alphabet is'a' then use 2nd WILD OPERATOR
+'_a%' --> second alphabet is a
+'%s_' --. second last alphabet is s
+
+
+
+(20-04-26)
+
+If user want to change entire table structure  -- DDL Command
+if user want to modify any row or column -- DML Command
+
+
+SQL JOINS
+(INNER) JOIN : Returns records that have matching values in both tables
+LEFT (OUTER) JOIN : Returns all records from the left table, and the matched records from the right table
+RIGHT (OUTER) JOIN: Returns all records from the right table , and the matched records from the left table
+FULL(OUTER) JOIN: Returns all records when there is a match in either left or right table
+
+When we works with SQL JOINS it always works with minimum 2 table
+
+CROSS JOIN : combines every row from the first table with every row from the second table, returning the Cartesian product. If Table A has m rows and Table B has n rows, the result will have m × n rows
