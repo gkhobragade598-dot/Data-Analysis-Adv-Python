@@ -1,0 +1,6 @@
+(21-04-26)
+
+DATA ANALYSIS USING SQL V/S DATA ANALYSIS USING PYTHON
+
+link for more information about SQL ---
+https://www.w3schools.com/Sql/sql_having.asp
