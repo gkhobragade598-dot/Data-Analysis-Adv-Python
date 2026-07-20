@@ -1,0 +1,78 @@
+(22-4-26)
+
+# Seaborn tutorial for beginners---------
+ 
+
+This kernel introduces us to the basics of statistical data visualization. I have used the Seaborn library for the data visualization purpose.
+
+
+Following references are used in this kernel. ------
+
+
+**References:** --------
+
+
+Seaborn Official Tutorial
+
+http://seaborn.pydata.org/tutorial.html
+
+
+
+Seaborn documentation and API reference------
+
+http://seaborn.pydata.org/
+
+http://seaborn.pydata.org/api.html
+
+
+Useful Seaborn tutorials-----
+
+https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+
+https://elitedatascience.com/python-seaborn-tutorial
+
+https://www.tutorialspoint.com/seaborn/index.htm#
+
+
+
+Data visualization helps us to discover hidden insights from our data.
+
+
+So, let's get started.
+
+
+
+## Table of Contents =======
+
+
+The table of contents for this tutorial is as follows -
+
+-	Import libraries
+-	Read dataset
+-	Exploratory data analysis
+-	Visualize distribution of Age variable with Seaborn distplot() function
+-	Seaborn Kernel Density Estimation (KDE) plot
+-	Histograms
+-	Visualize distribution of values in Preferred Foot variable with Seaborn countplot() function
+-	Seaborn catplot() function
+-	Seaborn stripplot() function
+-	Seaborn boxplot() function
+-	Seaborn violinplot() function
+-	Seaborn pointplot() function
+-	Seaborn barplot() function
+-	Visualizing statistical relationship with Seaborn relplot() function
+-	Seaborn scatterplot() function
+-	Seaborn lineplot() function
+-	Seaborn regplot() function
+-	Seaborn lmplot() function
+-	Multi-plot grids
+-	Seaborn Facetgrid() function
+-	Seaborn Pairgrid() function
+-	Seaborn Jointgrid() function
+-	Controlling the size and shape of the plot
+-	Seaborn figure styles
+
+
+
+
+
