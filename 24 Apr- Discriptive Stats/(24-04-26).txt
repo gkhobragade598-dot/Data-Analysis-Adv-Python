@@ -1,0 +1,54 @@
+(24-04-26)
+
+
+============================
+STATISTICS INTRODUCTION
+============================
+
+
+DESCRIPTIVE STATISTICS
+
+Assymetry ---->
+
+Skewness indicates whether the data is concentrated  on which side , either left side or right side
+
+SKEWNESS is divided into 3 :-
+Positive skewness ---> MEAN > MEDIAN & MODE  ( Data is left & Outlier is at right )
+Negative Skewness ---> MODE> MEDIAN > MEAN  ( Data is right & Outlier is  at left
+Zero Skewness ---> MEAN = MEDIAN = MODE ( Data is at centre & no Outlier is present ) 
+
+ZERO SKEWNESS == NORMAL DISTRIBUTION == GAUSSIAN DISTRIBUTION == BELL CURVE == 0 SYMMETRY
+
+
+SKEWNESS == Graphs are Flatten
+KURTOIS == Graphs are tailed
+
++VE skew  =  +VE Kurtois ( Leptokurtic)
+-VE Skew = -VE Kurtois ( Playtykurtic)
+0 Skew = Normal Distribution (Meso Kurtic)
+
+For STATS library --> SciPy
+
+SciPy -- statistical , statistical equation 
+
+
+descriptive stats
+ Central Tendency : Mean , Median , Mode
+ Asymmetry : Skewness & Kurtois
+ Variability : Variance , Standard Deviation
+
+
+MEAN ------->
+ POPULATION MEAN
+ SAMPLE MEAN
+
+VARIANCE : Spread of the data towards MEAN is called VARIANCE
+  POPULATION VARIANCE
+  SAMPLE VARIANCE
+
+if the DATA is not spread towards MEAN , it is called NULL HYPOTHESIS --> we usually reject the NULL HYPOTHESIS.
+
+
+==========
+CORELATION : relation among  2 variable is called corelation
+same concept as corelation , but in STATISTICS it is called "COVARIANCE"
