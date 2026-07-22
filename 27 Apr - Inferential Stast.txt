@@ -1,0 +1,55 @@
+(27-04-26)
+
+
+======================
+INFERENTIAL STATISTICS
+======================
+
+Probability & Distribution
+
+Distribution concept comes from Probability
+
+roll 1 dice -- uniform distribution
+roll 2 dice -- normal diistribution ( mean = median = mode )
+
+==============
+STANDARIZATION  ----> also called Z -Score
+==============
+
+[ In ML , same technique we called as STANDARD SCALER
+In Time Series , same technique called as WHITE NOISE ]
+
+Standardized Variable = Original Variable  - Mean / Standard Deviation
+                        
+
+Machine Learning we will be using 2 concept -- logistic regression algorithm & Navie Bayes algorithm
+probability --- predict the next tokens when internet LLM
+
+
+
+CENTRAL LIMIT THEOREM : Thumb rule o CLT is (SAMPLE SIZE > no. of records)
+
+
+Z- Score  = x - mu / sigma
+CLT = Sigma  > Observation
+Standard Error = Sigma / root n
+
+
+Confidence Interval -->
+ Population = population Variance known (Z -Test)
+ Sample = population Variance unknown  (T-test)
+
+
+Hypothesis Testing  ---------->
+
+95% confidence -- error 5% (5/100 =0.05)
+
+confidence interval -- lower interval & upper interval
+Confidence Level = 1 - alpha  
+
+
+
+Z-TABLE : it is a STATISTICAL TABLE used to calculate z-tesr
+Z-TEST : Statistical test used for population @95% confidence & 99% confidence interval
+Z-score :Standardization Technique which will be use in MACHINE LEARNING
+
