@@ -1,0 +1,69 @@
+(29-04-26)
+
+
+1 - Advance Stats
+    stats towards Machine Learning
+    anova
+    r2
+    adjusted r2
+
+
+Linear regression line -- 
+y = mx+ c        ; y = Actual DATA
+y^ = mx + c      ; y^ = Predicted DATA
+
+
+x - iv 
+y - dv
+m - slope
+c - constant | intercept
+y - actual data
+y^ - predicted data
+
+
+Best Fit Line - the line has least fit error is called best fit line
+ERROR --> Distance between actual point & Predicted point is called ERROR
+
+
+ABSOLUTE ERROR :- (y-y^)
+SQUARE ERROE :- (y-y^)**2
+ROOT MEAN SQUARE ERROR :- np.sqrt(y-y^)
+
+
+
+ANOVA -- Analysis of Variance
+  ML is divided into 3 TYPES :-
+     1. REGRESSION
+     2. CLASSIFICATION
+     3. CLUSTERING
+
+
+
+Performance Measure for Regressions --> R2 & Adjusted R2
+If r2 & adjusted r2 between range of 0-1 then regression model is best model
+
+
+
+SSE (SUM OF SQUARE ERROR) :- ACTUAL POINT - PREDICTED POINT
+SSR (SUM OF SQUARES REGRESSION) :-  PREDICTED POINT - AVERAGE POINT
+SST = SSE + SSR => Actual - average = (actual - prediction ) + ( pred - avg)
+
+
+R2 = 1 - SSR/ SST
+
+If you build regression Model with more attribute then adjusted R2 will come to picture.
+performance measure of regression model :-
+ r2 , adjusted r2
+ range of 0 - 1 | r2 >= adjusted r2  OR adjusted R2 < r2 
+
+
+
+Y = MX + C  [ Simple Linear Regression Algorithm ]
+   1 dv & 1 iv
+   R2 
+
+Y = M1X1 + M2X2 + M3X3 + C [ MULTIPLE LINEAR REGRESSION ALGORTHM ]
+  1 dv & many iv
+  R2 & ADJUSTED R2
+  0 - 1
+  R2 > adjusted R2
